@@ -1,5 +1,5 @@
 # Question-Answering-using-BERT
-In this project the goal is to fine tune BERT model on popular QA datasets (SQuAD 2.0, TriviaQA, NQ, QuAC, NewsQA)
+In this project the goal is to fine tune a BERT model on popular QA datasets (SQuAD 2.0, TriviaQA, NQ, QuAC, NewsQA)
 
 
 # Project subtasks 
